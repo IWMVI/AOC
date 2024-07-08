@@ -1,0 +1,1 @@
+Exercícios realizados na matéria de Arquitetura e Organização de Computadores - FATEC Zona Leste.
